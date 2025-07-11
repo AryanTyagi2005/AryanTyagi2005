@@ -30,6 +30,9 @@
 - 🎮 **Cybersecurity Game** – Unity & C#  
   A gamified learning experience to teach cybersecurity principles through gameplay.
 
+- 📡**Smart Price Anomaly Detector** – C++ & Python  
+  A hybrid C++ and Python (Streamlit) project that detects unusual product prices to prevent costly errors in online stores.
+
 > 👉 Check pinned repos below or [view all my repositories](https://github.com/your-username?tab=repositories)
 
 ---
