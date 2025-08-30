@@ -56,7 +56,7 @@
 ---
 
 ### 📫 Reach Me At
-- 📧 [your-email@gmail.com](mailto:tyagiprince5180@gmail.com)
+- 📧 [your-email@gmail.com](mailto:aryantyagi.cs@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryan1237/)
 
 ---
