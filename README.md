@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a **3rd-year B.Tech CSE student**
+- 🎓 I'm a **4th-year B.Tech CSE student**
 - 💻 I’m currently working on **DSA using C++, Computer Science fundamentals, and Cybersecurity**
 - 🛠️ Tech enthusiast who loves building things that solve real problems
 - 🌱 Always curious to learn more and sharpen my core CS skills
